@@ -7,22 +7,6 @@
     {
       "source": "/ca/:path*",
       "destination": "https://frontend-ten-mocha-80.vercel.app/ca/:path*"
-    },
-    {
-      "source": "/pb",
-      "destination": "https://your-projectb.vercel.app/pb"
-    },
-    {
-      "source": "/pb/:path*",
-      "destination": "https://your-projectb.vercel.app/pb/:path*"
-    },
-    {
-      "source": "/pc",
-      "destination": "https://your-projectc.vercel.app/pc"
-    },
-    {
-      "source": "/pc/:path*",
-      "destination": "https://your-projectc.vercel.app/pc/:path*"
     }
   ]
 }
