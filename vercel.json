@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/ca",
-      "destination": "https://frontend-ten-mocha-80.vercel.app/ca"
+      "destination": "https://frontend-ten-mocha-80.vercel.app/"
     },
     {
       "source": "/ca/:path*",
